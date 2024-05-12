@@ -1,0 +1,2 @@
+analysis_s1:SENTanalysis1*:sentanalysis241@gmail.com:SENTanalysis1*
+Analysis_Sent2:SENTanalysis2*:sentanalysis2@gmail.com:SENTanalysis02*
